@@ -27,7 +27,7 @@ Third: paste the template where you want the widget to appear on the website.
 
 Fourth: insert the tracking information for your widget (name of action, etc) into the designaed locations in the snippet. Each of these elements is marked with "TEMPLATE".
 
-PS: The widgets use Bootstrap CSS, but you can change this :D
+PS: The widgets are written to use Bootstrap CSS (Not included), but you can change this :D
 
 ---
 
