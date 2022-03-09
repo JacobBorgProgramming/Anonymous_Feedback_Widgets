@@ -11,7 +11,7 @@ But many of the existing user feedback options invade the website owner's and us
 
 ### Disclaimer
 
-This project is NOT endorsed by PanelBear.
+This project is NOT endorsed by nor associated with PanelBear.
 
 This project is designed to work with PanelBear. Thus, the easiest way to implement these wigdets requires a PanelBear account, or you can dissmantle and rebuild using a different analytics platform.
 
