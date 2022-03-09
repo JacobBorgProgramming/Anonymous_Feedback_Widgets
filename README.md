@@ -5,7 +5,7 @@ Anonymous feedback widgets built for use with PanelBear Analytics
 
 ### Every website owner wants to get user feedback...
 
-But many of the existing user feedback options invade the website owner's and users' privacy. However, PanelBear Analytics and its amazing API make privacy respecting feedback possible while not losing any UI quality.
+But many of the existing user feedback options invade the website owner's and users' privacy. However, PanelBear Analytics makes privacy respecting feedback possible.
 
 ---
 
