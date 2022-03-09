@@ -19,7 +19,7 @@ This project is designed to work with PanelBear. Thus, the easiest way to implem
 
 ### How to use
 
-#### Method 1
+#### Method 1 - Some assembly required
 
 First: add a PanelBear snippet inside your site's head tags.
 
@@ -31,7 +31,7 @@ Fourth: insert the tracking information for your widget (name of action,
 etc) into the designaed locations in the snippet. Each of these
 elements is marked with "TEMPLATE".
 
-#### Method 2
+#### Method 2 - Ready out of the box
 
 First: add a PanelBear snippet inside your site's head tags.
 
