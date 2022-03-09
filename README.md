@@ -25,7 +25,7 @@ Second: copy the snippet template script.
 
 Third: paste the template where you want the widget to appear on the website.
 
-Fourth: insert the tracking information for your widget (name of action, etc) into the designaed locations in the snippet.
+Fourth: insert the tracking information for your widget (name of action, etc) into the designaed locations in the snippet. Each of these elements is marked with "TEMPLATE".
 
 ---
 
