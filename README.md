@@ -33,7 +33,15 @@ elements is marked with "TEMPLATE".
 
 #### Method 2
 
-Open one of the linked generators, fill out the form, generate, then copy and paste into your webpage.
+First: add a PanelBear snippet inside your site's head tags.
+
+Second: Open one of the linked generators
+
+Third: fill out the form
+
+Fourth: generate 
+
+Fifth: copy and paste into your webpage
 
 Further instructions on builder pages.
 
