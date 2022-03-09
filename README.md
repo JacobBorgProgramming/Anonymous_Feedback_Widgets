@@ -19,7 +19,7 @@ This project is designed to work with PanelBear. Thus, the easiest way to implem
 
 ### How to use
 
-First: add a PanelBear snippet inside your site's <head></head> tags.
+First: add a PanelBear snippet inside your site's head tags.
 
 Second: copy the snippet template script.
 
